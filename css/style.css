@@ -682,7 +682,7 @@ caption {
 }
 
 .menu {
-    background-color: #fff;
+    
     width: 100%;
     display: flex;
     flex: 1 1 auto;
@@ -1396,10 +1396,6 @@ html {
   .modal-content {
     background-color: #1a1a1a;
     color: #eee;
-  }
-
-  .modal-close {
-    background-color: #444;
   }
 
   .btn-gray {
