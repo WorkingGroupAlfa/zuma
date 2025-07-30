@@ -1341,14 +1341,14 @@ html {
   }
 
   .item-description_white {
-      background-color: #1c1c1c;
+      color: #1c1c1c;
   }
 
   .menu-title {
       color: #f0f0f0;
   }
 
-  .item_price {
+  .item-price {
        color: #f0f0f0;
   }
 
