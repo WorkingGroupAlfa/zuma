@@ -1344,15 +1344,18 @@ html {
     background-color: #1c1c1c;
     color: #f0f0f0;
 }
-  .menu-list_item {
-    color: #f0f0f0;
-}
+
     
 
   .main_info {
     background-color: #1c1c1c;
-    color: #f0f0f0;
+    
   }
+
+  .info-item-text {
+      color: #f0f0f0;
+  }
+
 
   .item-description_white {
       color: #1c1c1c;
