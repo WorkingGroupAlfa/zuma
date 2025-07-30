@@ -1333,3 +1333,51 @@ html {
     font-size: 16px;
     margin-top: 10px;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212;
+    color: #f0f0f0;
+  }
+
+  .menu-item {
+    background-color: #1c1c1c;
+    border-color: #333;
+  }
+
+  .item-description {
+    color: #aaa;
+  }
+
+  .scroll-tabs-container, .scroll-tabs {
+    background-color: #1a1a1a;
+    border-color: #444;
+  }
+
+  .tab-link {
+    background-color: #2a2a2a;
+    color: #eee;
+  }
+
+  .tab-link.active {
+    background-color: #ed2d23;
+    color: white;
+  }
+
+  .modal-content {
+    background-color: #1a1a1a;
+    color: #eee;
+  }
+
+  .modal-close {
+    background-color: #444;
+  }
+
+  .btn-gray {
+    background-color: #555;
+  }
+
+  .btn-red {
+    background-color: #ED2D23;
+  }
+}
